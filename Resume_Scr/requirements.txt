@@ -8,8 +8,7 @@ pandas
 numpy
 openpyxl
 plotly
-textract
-python-magic-bin
+python-magic
 PyPDF2
 phonenumbers
 dateparser
