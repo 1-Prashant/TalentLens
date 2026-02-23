@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+python-docx
+nltk
+spacy
+scikit-learn
+pandas
+numpy
+openpyxl
+plotly
+textract
+python-magic-bin
+PyPDF2
+phonenumbers
+dateparser
