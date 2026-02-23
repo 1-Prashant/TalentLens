@@ -13,3 +13,5 @@ python-magic-bin
 PyPDF2
 phonenumbers
 dateparser
+matplotlib
+seaborn
